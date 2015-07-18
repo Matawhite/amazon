@@ -1,0 +1,23 @@
+
+  .sideBar{
+    margin-left: 15px;
+  }
+
+  .content{
+    margin-right: 15px;
+  }
+
+footer {
+	height: 50px;
+	width: 100%;
+	background-color: #DFE4E6;
+	margin-top: 20px;
+}
+
+.bookList {
+	padding-top: 10px;
+}
+
+.buy {
+	list-style-type: none;
+}
